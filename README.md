@@ -26,7 +26,6 @@
 
 ## ⚙️ Additional Settings
 
-- **Custom Key Bindings**: You can modify the key bindings by editing the `config.xml` file located in the same folder as the `modestmenu.exe`.
 - **Save Settings**: Your preferences and configurations will be saved automatically and loaded each time you run the menu.
 
 ## ❌ How to Exit
