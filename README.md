@@ -1,10 +1,10 @@
-# Kiddion's Mod Menu -  (v0.9.8)
+# Kiddion's Modest Menu (v0.9.8) - How to Use
 
-This repository features an improved version of the **Kiddion's Modest Menu**. This version includes various performance enhancements, new modding features, and a more refined user interface, offering users a better overall experience.
+This guide explains how to use **Kiddion's Modest Menu**.
 
-## Key Features in v0.9.8:
-- **Performance Boost**: Quicker execution and smoother interactions.
-- **New Features**: Expanded modding options and customization tools.
-- **Improved UI**: A cleaner, more intuitive design for ease of use.
-
-Explore the new version and feel free to contribute!
+## Instructions:
+1. **Download the Menu**
+2. **Extract the Files**
+3. **Launch GTA V**
+4. **Run the Mod Menu**
+5. **Exit**: Close the menu and game as usual.
