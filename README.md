@@ -1,4 +1,4 @@
-# Kiddion's Modest Menu (v0.9.8) - How to Use
+# Kiddion's Modest Menu (v1.1.0) - How to Use
 
 This guide explains how to use **Kiddion's Modest Menu**.
 
