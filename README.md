@@ -1,9 +1,9 @@
-# Kiddion's Modest Menu - GTA V
+# Kiddion's Modest Menu (v1.0.2) - GTA V
 
 **Kiddion's Modest Menu** is a feature-packed mod menu for **Grand Theft Auto V** that provides various tools and enhancements to improve your gameplay experience.
 
 ## 📝 How to Install
-1. **Download** the latest version of the **Kiddion's Modest Menu**.
+1. **Download** the latest version (v1.0.2) of the **Kiddion's Modest Menu**.
 2. **Extract** the downloaded files to any folder on your computer.
 3. **Run** `modestmenu.exe` as **Administrator** before launching **GTA V**.
 4. **Ensure** that you run the game in **Windowed** or **Borderless Windowed Mode** to make it easier to switch between the menu and the game.
