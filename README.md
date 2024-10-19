@@ -29,10 +29,10 @@ Using mods in **GTA V** can violate Rockstar's Terms of Service. Use at your own
 
 ## ⚙️ Additional Settings
 
-- **Custom Key Bindings**: You can modify the key bindings by editing the `config.xml` file located in the same folder as the `modmenu.exe`.
+- **Custom Key Bindings**: You can modify the key bindings by editing the `config.xml` file located in the same folder as the `modestmenu.exe`.
 - **Save Settings**: Your preferences and configurations will be saved automatically and loaded each time you run the menu.
 
 ## ❌ How to Exit
 
-To safely exit the **Kiddion's Modest Menu**, close the menu by pressing `F5`, and close the `modmenu.exe` by using the Task Manager (`Ctrl + Shift + Esc`) or simply closing the window.
+To safely exit the **Kiddion's Modest Menu**, close the menu by pressing `F5`, and close the `modestmenu.exe` by using the Task Manager (`Ctrl + Shift + Esc`) or simply closing the window.
 
