@@ -8,7 +8,7 @@ Using mods in **GTA V** can violate Rockstar's Terms of Service. Use at your own
 ## 📝 How to Install
 1. **Download** the latest version of the **Kiddion's Modest Menu**.
 2. **Extract** the downloaded files to any folder on your computer.
-3. **Run** `modmenu.exe` before launching GTA V or while GTA V is running.
+3. **Run** `modestmenu.exe` as **Administrator** before launching **GTA V** or while **GTA V** is running.
 4. **Ensure** that you run the game in **Windowed** or **Borderless Windowed Mode** to make it easier to switch between the menu and the game.
 
 ## 🎮 How to Use
@@ -35,3 +35,4 @@ Using mods in **GTA V** can violate Rockstar's Terms of Service. Use at your own
 ## ❌ How to Exit
 
 To safely exit the **Kiddion's Modest Menu**, close the menu by pressing `F5`, and close the `modmenu.exe` by using the Task Manager (`Ctrl + Shift + Esc`) or simply closing the window.
+
