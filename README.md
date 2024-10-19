@@ -2,9 +2,6 @@
 
 **Kiddion's Modest Menu** is a feature-packed mod menu for **Grand Theft Auto V** that provides various tools and enhancements to improve your gameplay experience.
 
-## ⚠️ Disclaimer
-Using mods in **GTA V** can violate Rockstar's Terms of Service. Use at your own risk. The creator is not responsible for any bans or penalties.
-
 ## 📝 How to Install
 1. **Download** the latest version of the **Kiddion's Modest Menu**.
 2. **Extract** the downloaded files to any folder on your computer.
@@ -36,3 +33,5 @@ Using mods in **GTA V** can violate Rockstar's Terms of Service. Use at your own
 
 To safely exit the **Kiddion's Modest Menu**, close the menu by pressing `F5`, and close the `modestmenu.exe` by using the Task Manager (`Ctrl + Shift + Esc`) or simply closing the window.
 
+## 🔄 Ongoing Updates
+I will continuously update the mod and its features. Please check back regularly for new updates and improvements.
