@@ -1,4 +1,4 @@
-# Kiddion's Modest Menu (v1.0.2) - GTA V
+# Kiddion's Modest Menu - GTA V
 
 Kiddion's Modest Menu - GTA V
 
